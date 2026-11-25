@@ -1,0 +1,2 @@
+# SyedMuhammadMubashirHasan_26K3101_Lab11
+Dynamic Memory Allocation
